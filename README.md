@@ -1,2 +1,0 @@
-# mjweb1
-websmj
